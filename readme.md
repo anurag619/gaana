@@ -13,11 +13,8 @@ tired of not getting a decent song to hear on Gaana.com/saavn.com {I am using ga
 * to get a taste of things, run the above project locally and observe whats happening. The html and css is bit messy, we can revert it when the overall functionally get complete.
 * the basic idea is to create a music app.
 
-wanna contribute ?
-------------------
 
-
-* we will be using gaana API to serve music list to the users, go through the [docs](http://developer.gaana.com/docs/developer-guidelines/)
+* Feel free to edit/comment/fork, gaana API is used here to serve music list to the users, go through the [docs](http://developer.gaana.com/docs/developer-guidelines/)
 
 
 
